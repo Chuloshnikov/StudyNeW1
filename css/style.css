@@ -69,6 +69,7 @@ gap: 125px;
 flex: 0 0 80px;
 }
 .header__menu {
+	z-index: 50;
 }
 .menu {
 }
@@ -195,6 +196,7 @@ box-shadow: 0 30px 60px 0 rgba(68, 117, 242, 0.5);
 	border-radius: 10px;
 }
 .image-hero__image {
+	overflow: hidden;
 	border-radius: 10px;
 	max-width: 100%;
 	box-shadow: 0 15px 30px 0 rgba(0,0,0, 0.25);
