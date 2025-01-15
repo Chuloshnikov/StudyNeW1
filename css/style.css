@@ -164,6 +164,7 @@ margin-bottom: 10px;
 .content-hero__text p:not(:last-child){
 }
 .content-hero__button {
+	display: inline-block;
 	box-shadow: 0 30px 60px 0 rgba(68, 117, 242, 0.25);
 	border-radius: 10px 10px 10px 10px;
 	background-color: #4475f2;
